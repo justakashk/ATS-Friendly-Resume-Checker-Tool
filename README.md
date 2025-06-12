@@ -26,7 +26,7 @@ Most companies use ATS to filter resumes. If your resume isn't ATS-friendly, it 
 
 ## 🖥️ Live Demo
 
-🌐 [Try it here](https://weekforweek.com/tools/ats-checker)  
+🌐 [Try it here]([https://weekforweek.com/tools/ats-checker](https://www.weekforweek.com/p/free-ats-friendly-resume-score-checker.html))  
 *(If hosted on your site – update with actual link)*
 
 ## 📸 Screenshots
